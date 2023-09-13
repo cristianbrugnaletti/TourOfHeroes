@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url(https://wallpapercave.com/wp/wp4450618.jpg); /* Sostituisci 'percorso-dell-immagine.jpg' con il percorso corretto dell'immagine */
+    background-size: cover; /* Questo regola la dimensione dell'immagine per coprire completamente il corpo */
+    background-repeat: no-repeat; /* Impedisce la ripetizione dell'immagine se è più piccola del corpo */
+    /* Altre regole CSS per il tuo sfondo, se necessario */
+  }
